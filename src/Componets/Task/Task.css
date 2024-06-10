@@ -12,8 +12,7 @@
      
     
 }
-#task div{
-  
+#task div{  
     gap: 2px;
 }
 #task h3{
@@ -35,4 +34,28 @@
 #task .btn:hover{
     color: red;
 
+}
+
+@media (max-width:689px){
+    #task{
+        width: 80%;
+    }
+    #task h3{
+        font-size: 2vw;
+    }
+    #task h5{
+        font-size: 2vw;
+
+    }
+}
+@media(max-width:430px){
+    #task .btn{
+        font-size: 5vw;
+    }
+
+}
+@media(max-width:320px){
+    #task{
+        padding: 5px;
+    }
 }
