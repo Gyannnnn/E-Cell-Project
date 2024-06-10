@@ -1,0 +1,38 @@
+#task{
+    background: transparent;
+    color: #fff;
+    display: flex;
+    border: 0.5px solid #fff;
+    width: 50%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+    min-height: 25px;
+    border-radius: 10px;  
+     
+    
+}
+#task div{
+  
+    gap: 2px;
+}
+#task h3{
+    font-size: 1vw;
+    color: #3F39E8;
+    font-family: "Poppins", sans-serif;
+}
+#task h5{
+    font-size: 0.8vw;
+    font-family: "Poppins", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    
+}
+#task .btn{
+    font-size: 1.5rem;
+}
+
+#task .btn:hover{
+    color: red;
+
+}
