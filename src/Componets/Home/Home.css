@@ -78,17 +78,17 @@
 @media (max-width:430px){
     #container form input{
         
-        font-size: 2vw;
+        font-size: 3vw;
        
     }
     #container form textarea{
         
-        font-size: 2vw;
+        font-size: 3vw;
        
 
     }
     #container form button{        
-        font-size: 2vw;
+        font-size: 3vw;
         padding: 10x;
         
     }
